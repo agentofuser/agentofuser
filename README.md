@@ -19,4 +19,4 @@ I'm Helder, and I'm building tools for input-optimized, predictive, mobile, soci
 
 I go by [@agentofuser](https://agentofuser.com) in English and [@HelderUBI](https://twitter.com/helderubi) in Brazilian Portuguese.
 
-☕ I like meeting people so please feel free to grab a seat and [say hi](https://aou.vc/sayhi).
+☕&nbsp;&nbsp;I like meeting people so please feel free to grab a seat and [say hi](https://aou.vc/sayhi).
